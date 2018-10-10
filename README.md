@@ -1,4 +1,4 @@
-# bitcoinchallenge310
+# BitcoinChallenge310
 
 追踪 BitcoinChallenge 最新解密进展。
 

@@ -1,6 +1,6 @@
 # bitcoinchallenge310
 
-追踪 BitcoinChallenge 最新解密进展。BitcoinChalleng 官网链接 https://bitcoinchallenge.codes
+追踪 BitcoinChallenge 最新解密进展。
 
 ## 0.1 BTC(solved)
 
